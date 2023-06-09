@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>GAME INSTALL</title>
+    <style>
+        .button {
+            background-color: #FF4500;
+            border: none;
+            color: Red;
+            padding: 20px 34px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+        body {
+            background-color: green;
+        }
+
+        h1 {
+            color: #1c98c9;
+        }
+
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        img {
+            height: 100px;
+            width: 100px;
+        }
+    </style>
+    <link rel="shortcut icon" type="image/png" href="ikonka.png">
+</head>
+
+<body>
+    <div class="center">
+        <h1>GAME INSTALL</h1>
+        <img src="photo/ikonka.png" alt="logo">
+        <p>Данный сайт предназначен для скачивания игр.</p>
+        <a href="https://vk.com/turkin812" class="button">ВК АДМИНА</a>
+        <a href="https://clck.ru/34fGv6" class="button">УСТАНОВИТЬ ИГРУ ROCK-PAPER-SCISSORS</a>
+        <a href="https://vk.com/ti_lox_esli_prochel" class="button" target="_blank">МЫ В ВК</a>
+    </div>
+</body>
+
+</html>
+
+ 
